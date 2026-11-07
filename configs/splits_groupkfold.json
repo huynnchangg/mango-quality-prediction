@@ -1,0 +1,22 @@
+[
+  {
+    "box_id":"1_1_1",
+    "test_fold":1
+  },
+  {
+    "box_id":"1_1_7",
+    "test_fold":2
+  },
+  {
+    "box_id":"1_4_1",
+    "test_fold":3
+  },
+  {
+    "box_id":"2_2_10",
+    "test_fold":5
+  },
+  {
+    "box_id":"2_2_3",
+    "test_fold":4
+  }
+]

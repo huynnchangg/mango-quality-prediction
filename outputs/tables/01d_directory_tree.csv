@@ -1,0 +1,16 @@
+﻿folder,file_count,total_size_bytes
+00_script,6,105301
+01_src_subset_dataset_T_H,341,1226356
+02_res_subset_dataset_T_H,65,1456685
+03_src_subset_dataset_W,6,3021
+04_res_subset_dataset_W,50,759991
+05_src_subset_dataset_C,7,49803
+06_res_subset_dataset_C,9,88426
+07_src_subset_dataset_PH,4,1162
+08_res_subset_dataset_PH,23,291581
+09_src_subset_dataset_TSS,4,1246
+10_res_subset_dataset_TSS,23,339252
+11_src_subset_dataset_SR,1,129146
+12_res_subset_dataset_SR,3,29227
+13_src_subset_dataset_photo,10,62520344
+14_devices,7,2598925

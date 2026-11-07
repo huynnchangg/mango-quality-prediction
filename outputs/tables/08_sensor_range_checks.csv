@@ -1,0 +1,4 @@
+﻿variable,lower_check,upper_check,flagged_count
+T_mangoes,-10,60,0
+T_Air,-10,60,0
+RH_Air,0,100,0

@@ -1,0 +1,10 @@
+{
+  "raw_file_count": 563,
+  "sensor_step_file_count": 312,
+  "sensor_rows_clean": 20709,
+  "sensor_box_count": 31,
+  "quality_weight_rows": 280,
+  "quality_color_rows": 414,
+  "timestamp_bad_rows": 0,
+  "sensor_duplicate_rows_removed": 0
+}

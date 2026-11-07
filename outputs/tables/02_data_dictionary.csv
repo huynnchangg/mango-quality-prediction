@@ -1,0 +1,80 @@
+﻿source_folder,sample_file,variable,meaning,unit,data_type,status
+01_src_subset_dataset_T_H,00_All_Recording_Packing_House_to_Arrival_At_INRAE_1_1_12_Temp_Hum.txt,Time,Measurement timestamp,local datetime; timezone unspecified,datetime64[ns],documented
+01_src_subset_dataset_T_H,00_All_Recording_Packing_House_to_Arrival_At_INRAE_1_1_12_Temp_Hum.txt,T_mangoes,Temperature channel associated with mango; exact logger placement requires protocol confirmation,°C,float,documented
+01_src_subset_dataset_T_H,00_All_Recording_Packing_House_to_Arrival_At_INRAE_1_1_12_Temp_Hum.txt,T_Air,Air temperature inside instrumented carton,°C,float,documented
+01_src_subset_dataset_T_H,00_All_Recording_Packing_House_to_Arrival_At_INRAE_1_1_12_Temp_Hum.txt,RH_Air,Relative humidity of air inside instrumented carton,% RH,float,documented
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,Time,Measurement timestamp,local datetime; timezone unspecified,datetime64[ns],documented
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/3,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/4,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/5,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/6,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/7,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/8,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/9,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/10,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/11,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/12,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/13,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+03_src_subset_dataset_W,1_Weight_21C_1_1_1.txt,M_1_1_1/14,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,BOX_NAME,Mango identifier encoded as box position / fruit number / measurement spot,identifier,string,documented
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,L_D0,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,a_D0,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,b_D0,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,L_D3,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,a_D3,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,b_D3,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,L_D6,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,a_D6,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,b_D6,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,L_D9,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,a_D9,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,b_D9,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,L_D12,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,a_D12,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,b_D12,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,L_D15,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,a_D15,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+05_src_subset_dataset_C,1_Color_21C_1_1_1.txt,b_D15,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,Time,Measurement timestamp,local datetime; timezone unspecified,datetime64[ns],documented
+07_src_subset_dataset_PH,1_PH_21C.txt,M_1_1_2/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_1_1_2/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_1_1_12/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_1_1_12/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_4_1_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_4_1_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_4_1_7/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_4_1_7/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_2_2_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_2_2_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_3_2_7/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_3_2_7/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_1_4_2/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_1_4_2/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_4_4_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+07_src_subset_dataset_PH,1_PH_21C.txt,M_4_4_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,Time,Measurement timestamp,local datetime; timezone unspecified,datetime64[ns],documented
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_1_1_2/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_1_1_2/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_1_1_12/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_1_1_12/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_4_1_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_4_1_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_4_1_7/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_4_1_7/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_2_2_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_2_2_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_3_2_7/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_3_2_7/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_1_4_2/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_1_4_2/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_4_4_1/1,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+09_src_subset_dataset_TSS,1_TSS_21C.txt,M_4_4_1/2,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+11_src_subset_dataset_SR,Storage_Room_Temp_Hum.txt,Time,Measurement timestamp,local datetime; timezone unspecified,datetime64[ns],documented
+11_src_subset_dataset_SR,Storage_Room_Temp_Hum.txt,T_16C,Storage-room temperature channel for nominal 16°C condition,°C,float,documented
+11_src_subset_dataset_SR,Storage_Room_Temp_Hum.txt,H_16C,Storage-room relative humidity channel for nominal 16°C condition,% RH,float,documented
+11_src_subset_dataset_SR,Storage_Room_Temp_Hum.txt,T_21C,Storage-room temperature channel for nominal 21°C condition,°C,float,documented
+11_src_subset_dataset_SR,Storage_Room_Temp_Hum.txt,H_21C,Storage-room relative humidity channel for nominal 21°C condition,% RH,float,documented
+12_res_subset_dataset_SR,Average_Storage_Room_Temp_Hum.txt,Column,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review
+12_res_subset_dataset_SR,Average_Storage_Room_Temp_Hum.txt,Mean,Meaning not documented; inspect source file/read.me,not specified,needs_review,needs_review

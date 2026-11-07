@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+data/raw/**
+!data/raw/.gitkeep
+outputs/processed/*.parquet
+outputs/processed/*.csv
+outputs/processed/*_sequence.csv
+outputs/reports/source_checksums.csv

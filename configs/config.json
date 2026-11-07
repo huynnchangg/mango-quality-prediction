@@ -1,0 +1,16 @@
+{
+  "expected_sampling_minutes": 5,
+  "group_k_folds": 5,
+  "cold_injury_threshold_c": null,
+  "heat_stress_threshold_c": null,
+  "storage_day_labels": [
+    0,
+    3,
+    6,
+    9,
+    12,
+    15
+  ],
+  "date_format": "%d/%m/%Y %H:%M",
+  "random_state": 42
+}

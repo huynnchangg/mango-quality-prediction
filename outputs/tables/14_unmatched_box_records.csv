@@ -1,0 +1,29 @@
+﻿record_type,box_id,explanation
+sensor_box_without_quality,1_3_1,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,1_3_12,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,1_3_7,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,1_4_12,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,1_4_7,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,2_1_1,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,2_1_12,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,2_1_7,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,2_2_12,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,2_4_1,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,2_4_7,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,3_1_12,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,3_2_1,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,3_2_10,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,3_2_3,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,3_3_12,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,4_2_1,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,4_2_7,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+sensor_box_without_quality,4_4_7,Có sensor trajectory nhưng không tìm thấy quality ID trong các file được parse
+quality_box_without_sensor,1_1_2,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,1_4_2,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,2_2_4,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,2_2_7,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,2_2_9,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,3_2_4,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,3_2_5,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,3_2_6,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
+quality_box_without_sensor,3_2_8,Có quality record nhưng không tìm thấy sensor trajectory; có thể thuộc mẫu random không gắn logger
